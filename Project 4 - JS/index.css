@@ -1,0 +1,71 @@
+
+body {
+
+    background-color: hsl (190, 27%, 78%);
+    background-size: cover;
+    font-family: 'Silkscreen', cursive;
+    font-weight: bold;
+    text-align: center;
+
+   
+}
+
+.container {
+   width: 175px;
+   min-width: 100%;
+   min-height: 90vh;
+   align-items: center;
+   display:flex;
+   justify-content: center;
+}
+
+.containers {
+    width: 575px;
+    border: 5px solid black;
+    background-color: hsl 178, 190, 181;
+    align-items: center;
+    height: 450px;
+    
+}
+
+h1 {
+    padding-top: 1rem;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p{
+    margin: 1rem;
+}
+
+button {
+    font-family: 'Silkscreen', cursive;
+    padding: 12px 10px;
+    color: black;
+    font-weight: 500;
+    font-size: 1.25rem;
+    width: 200px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+
+img {
+    padding-top: 2em;
+   width: 100px;
+}
+
+#increment-btn {
+    background: rgba(215, 210, 210, 0.696);
+
+}
+
+#save-btn {
+    background:rgba(0, 139, 139, 0.684);
+}
+
