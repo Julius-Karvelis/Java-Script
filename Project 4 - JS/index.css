@@ -68,4 +68,9 @@ img {
 #save-btn {
     background:rgba(0, 139, 139, 0.684);
 }
+@media (max-width:445px) {
+.containers {
+    height: 80vh;
+}
+}
 
