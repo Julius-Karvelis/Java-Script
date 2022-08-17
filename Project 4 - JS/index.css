@@ -70,7 +70,7 @@ img {
 }
 @media (max-width:445px) {
 .containers {
-    height: 80vh;
+    height: 60vh;
 }
 }
 
